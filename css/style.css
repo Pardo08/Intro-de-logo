@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#Lente{
+    animation-delay: .5s;
+}
+
+#JP{
+    animation-delay: 1s;
+}
+
+#PM{
+    animation-delay: 1.5s;
+}
